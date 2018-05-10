@@ -7,7 +7,7 @@ Entwicklung einer PWA für FACES.
 1. Master -> Zusammenführen der Branches am Ende eines Entwicklungszeitraums
 2. Frontend -> Entwicklung von Frontend Features
 3. Database -> Managment und Implementierung einer Datenbank
-4. CMS -> Implementierung eines headless CMS 
+4. develop -> Entwicklungsbranch
 
 ### Arbeitsweise:
 
